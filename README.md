@@ -13,9 +13,6 @@ Este fork está enfocado en la creación de un diccionario es-MX para Firefox y 
 
 ## Instalación
 
-Puedes encontrar los diccionarios en los repositorios de extensiones o
-complementos de cada aplicación.
-
 ### Mozilla Firefox
 
 * [México] (https://addons.mozilla.org/es/firefox/addon/diccionario-espa%C3%B1ol-m%C3%A9xico/)
@@ -24,7 +21,7 @@ complementos de cada aplicación.
 
 ¡Todas las colaboraciones son bienvenidas!
 Puedes encontrar más información sobre cómo colaborar en nuestra
-[wiki](http://wiki.mozila.org/Mexico).
+[wiki](https://wiki.mozilla.org/Mexico).
 
 ## Licencia
 
