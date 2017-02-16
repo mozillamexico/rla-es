@@ -9,13 +9,13 @@ Desde el proyecto se compilan regularmente los diccionarios para corrección
 ortográfica utilizados por aplicaciones de gran difusión como LibreOffice,
 Apache OpenOffice y Mozilla Firefox, entre otras.
 
-Este fork está enfocado en la creación de un diccionario es-MX para Firefox y los diversos productos de Mozilla. Este proyecto es mantenido por los miembros de la comunidad de * [Mozilla México] (http://www.mozilla-mexico.org)
+Este fork está enfocado en la creación de un diccionario es-MX para Firefox y los diversos productos de Mozilla. Este proyecto es mantenido por los miembros de la comunidad de [Mozilla México] (http://www.mozilla-mexico.org)
 
 ## Instalación
 
 ### Mozilla Firefox
 
-[México] (https://addons.mozilla.org/es/firefox/addon/diccionario-espa%C3%B1ol-m%C3%A9xico/)
+* [México] (https://addons.mozilla.org/es/firefox/addon/diccionario-espa%C3%B1ol-m%C3%A9xico/)
 
 ## Colaboración
 
