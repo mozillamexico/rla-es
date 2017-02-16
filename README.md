@@ -15,7 +15,7 @@ Este fork está enfocado en la creación de un diccionario es-MX para Firefox y 
 
 ### Mozilla Firefox
 
-* [México] (https://addons.mozilla.org/es/firefox/addon/diccionario-espa%C3%B1ol-m%C3%A9xico/)
+[México] (https://addons.mozilla.org/es/firefox/addon/diccionario-espa%C3%B1ol-m%C3%A9xico/)
 
 ## Colaboración
 
